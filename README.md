@@ -1,3 +1,8 @@
+#Group Members
+1.kasozi Gerald M22B13/008
+2.WASSWA JOSHUA JESSEY  S23B13/122
+3. KIVUMBI OWEN S23B13/064
+
 # Hospital_Appointment_System. 
 Importances of the System.
 Optimal Resource Utilization:This helps in minimizing waiting times for patients and ensures that healthcare providers are utilized effectively.
